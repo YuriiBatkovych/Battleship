@@ -1,0 +1,2 @@
+-map maps/map3.txt -mode client -address 127.0.0.1 -port 6666
+-map maps/map5.txt -mode server -port 6666 
